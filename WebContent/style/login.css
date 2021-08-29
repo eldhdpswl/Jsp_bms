@@ -1,0 +1,53 @@
+@charset "UTF-8";
+<style>
+table {
+	border: 2px solid #0404B4;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	font-size: 11px;
+}
+
+table input {
+	color: black;
+	width: 150px;
+	
+}
+
+.input {
+	background-color: #FFFFFF;
+	border: 1px solid #0404B4;
+}
+
+.inputButton {
+	background-color: #FFFFFF;
+	color: #CC3D3D;
+	width: 90px;   
+	font-size: 13px;   
+	margin: 3px;
+}
+
+th {
+	background-color: #FFFFFF;
+	color: #170B3B;
+	font-size: 15px;
+	border: 1px solid #84B2F7;
+	border-radius: 4px;
+	margin: 0px;
+	padding: 3px;
+	height: 30px;
+	width: 130px;
+}
+
+td {
+	background-color: #A9E2F3;
+	color: #170B3B;
+	font-size: 15px;
+	border: 1px solid #84B2F7;
+	border-radius: 4px;
+	margin: 0px;
+	padding: 3px;
+	height: 30px;
+	width: 250px;
+}
+
+</style>

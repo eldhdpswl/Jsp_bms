@@ -1,0 +1,13 @@
+@charset "UTF-8";
+<style>
+h, td, tr, input, textarea, select, FORM {
+	font-family: 고딕;
+	font-size: 1em;
+	border-radius: 0px;
+}
+
+table, FORM {
+	border: 1px solid rgba(36, 228, 172, 0.29);
+	border-spacing: 0px;
+}
+</style>
